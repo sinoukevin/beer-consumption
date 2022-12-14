@@ -1,8 +1,6 @@
 import pandas as pd 
 import numpy as pd
 
-import pandas as pd
-
 
 # function to find which brewery produces the strongest beers by ABV%?
 def strongest_brewery(df):
